@@ -1,2 +1,2 @@
-document.getElementById("aaa")
-console.log()
+const fahad= document.getElementById("aaa")
+console.log(typeof fahad)
