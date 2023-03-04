@@ -1,2 +1,24 @@
-const fahad= document.getElementById("aaa")
-console.log(typeof fahad)
+
+
+
+
+
+
+function fahad() {document.getElementById("aaa").classList.add("mystyle")}
+fahad()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
