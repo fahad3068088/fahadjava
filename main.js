@@ -1,23 +1,18 @@
 
+const name = (params) => {
+    
+}
 
 
 
+const ff=()=>{
+    document.getElementById("aaa").classList.add("mystyle")
+}
+
+setTimeout( ff,8000)
 
 
-function fahad() {document.getElementById("aaa").classList.add("mystyle")}
-fahad()
-
-
-
-
-
-
-
-
-
-
-
-
+fahad();
 
 
 
