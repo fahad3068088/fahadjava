@@ -1,19 +1,30 @@
+const zz=document.getElementById("aaa")
 
-const name = (params) => {
-    
-}
-
-
-
-const ff=()=>{
-    document.getElementById("aaa").classList.add("mystyle")
-}
-
-setTimeout( ff,8000)
+// حق الضغط
+const as=document.getElementById("gg")
 
 
-fahad();
 
+
+
+
+
+
+
+
+
+
+
+
+zz.addEventListener("click", (params) => {
+    params.target.classList.add("mystyle")
+})
+
+
+   
+
+
+   
 
 
 
